@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Лев](https://up.htmlacademy.ru/htmlcss-individual/2/user/2598051).
-* Наставник: `Неизвестно`.
+* Студент: [Лев Дружинин](https://up.htmlacademy.ru/htmlcss-individual/2/user/2598051).
+* Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
 
 ---
 
