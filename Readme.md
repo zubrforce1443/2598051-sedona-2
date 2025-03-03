@@ -2,7 +2,7 @@
 
 * Студент: [Лев Дружинин](https://up.htmlacademy.ru/htmlcss-individual/2/user/2598051).
 * Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
-
+* сайт:[Мой сайт]( https://zubrforce1443.github.io/2598051-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
